@@ -1,14 +1,16 @@
 # GYM LOCKER ROOM!
 
 User can :
--Sign up and sign in with user namme, email, password
+-Sign up and sign in with user name, email, password
 -Set and view current goals
 -View past goals
--View excercises (name, description)
--Add excercises	
+-View exercises (name, description)
+-Add exercises	
 -Log actual workout data
 -Compare actual workout data to goals
 -View a graphical representation of goal progress and/or completion
+
+
 ***Future Versions***
 -Add and select excercises by tag, difficulty, type, category. 
 -View video reference of excercise
@@ -21,16 +23,13 @@ ruby 2.2.2p95 (2015-04-13 revision 50295) [x86_64-darwin14]
 Rails 4.2.1
 
 * Configuration
- 
-
 `Development`
+
 * Database creation
-
-
 Currently SQLite3
+
+
 * Database initialization
-
-
 `rake db:migrate db:seed`
 
 * How to run the test suite
@@ -38,12 +37,10 @@ Currently SQLite3
 (Runs over 60 MiniTests)
 * Services (job queues, cache servers, search engines, etc.)
 
-
-
 Deployment instructions
 
-
 * Ensure Cookies are enabled...
+
 Guide to deploy:
 
 Initial Guide:
