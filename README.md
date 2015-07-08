@@ -1,5 +1,7 @@
 # GYM LOCKER ROOM!
 
+http://razgoldin.com:3333/exercises
+
 User can :
 -Sign up and sign in with user name, email, password
 -Set and view current goals
